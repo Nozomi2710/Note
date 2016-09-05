@@ -2,14 +2,15 @@
 ##Controller
 *   Account  
 
-      >postLogin
-      >getLogout
-      >postRegister
+      >postLogin  
+      >getLogout  
+      >postRegister  
 
 *   User  
 
-      >getShowPersonalFile
-      >postEditPersonalFile
-      >postChangePWD
-      >postEditFriends
+      >getShowPersonalFile  
+      >postEditPersonalFile  
+      >postChangePWD  
+      >postEditFriends  
+      
 ##Model
