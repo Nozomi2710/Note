@@ -1,6 +1,12 @@
 #MessageBoard
 ##Controller
 *   Account
-*      login
+      >postLogin
+      >getLogout
+      >postRegister
 *   User
+      >getShowPersonalFile
+      >postEditPersonalFile
+      >postChangePWD
+      >postEditFriends
 ##Model
