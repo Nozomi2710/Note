@@ -1,10 +1,10 @@
 #MessageBoard
 ##Controller
-*   Account
+*   Account  
       >postLogin
       >getLogout
       >postRegister
-*   User
+*   User  
       >getShowPersonalFile
       >postEditPersonalFile
       >postChangePWD
