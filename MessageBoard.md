@@ -23,4 +23,6 @@ Route::controller('params', 'controllerNames');
 需要預先處理的函數也沒辦法先處理，會直接轉到controller，除非都用不到model不然可能還是用一般方法會比較好
 中介層用來處理請求中的參數
 網址列的參數應該讓路由器來處理
+laravel會自行使用加密
+在表單上要加一個隱藏的"_token"input
 
